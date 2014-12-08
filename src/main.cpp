@@ -1,3 +1,7 @@
+// By Alvaro Cassinelli
+// This is a simple controller/recorder for the smart laser scanner. mbed should be using the SkinGames code found here:
+// http://developer.mbed.org/users/mbedalvaro/code/skinGames_II/
+
 #include "ofMain.h"
 #include "ofApp.h"
 
